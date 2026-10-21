@@ -9,7 +9,8 @@ The international fee needs the dollar exchange rate. I hide this rate behind my
 ## How to run
 
 To run all tests, use the command mvn test. To run the demo, first compile with mvn -q compile. Then run java -cp target/classes airport.Demo.
-
+## UML Duagram
+![UML diagram of the Strategy pattern](docs/strategy.png)
 ## Classes
 
 | Class | Responsibility |
